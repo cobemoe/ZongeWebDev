@@ -46,15 +46,15 @@ They are effective in both reconnaissance and detailed targeting stages of explo
     <tr>
       <td style="padding: 10px; text-align: center;"><strong>Depth</strong></td>
       <td style="padding: 10px; text-align: left;">
-        The depth is dependent on transmitted frequency and resistivity of the subsurface, often in the 100’s of meters range.<br>
-        Vertical resolution is often estimated to be 5–20% of the profile length.
+        The depth is dependent on transmitted frequency and resistivity of the subsurface, often around 500 meters or more.<br>
+        2D inversion depth of investigation is generally about 1/2 the line length.
       </td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;"><strong>Dipole Length</strong></td>
       <td style="padding: 10px; text-align: left;">
         Often 10–200 m.<br>
-        The received signal strength is proportional to the station spacing.
+        The received signal strength is proportional to the station spacing/dipole length.
       </td>
     </tr>
     <tr>
